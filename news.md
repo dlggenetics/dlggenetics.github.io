@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Schnable Lab News
+title: News
 
 ---
-### 2019, January
+### 2019
 
-* ARPA-E Open annouces a new grant to the Schnable Lab and collaborators in Computer Science and Engineering at the University of Utah to develop field deployable early warning sensors to detect volatile compounds released by plants. Special thanks to the [Hanseup Kim Research Group](http://www.ece.utah.edu/~hanseup/) for leading this effort. 
+* [The new proso millet genome was published in Nature Communications](https://doi.org/10.1038/s41467-019-08409-5)! Three members of Dryland Genetics Santosh Rajput, Patrick Schnable, and James Schnable, as well as Delin Li from our sister company Data2Bio all contributed to making the dream of a proso millet genome a reality. 
 
-* Zhikai and Chenyong attend the 27th Annual Plant and Animal Genome Conference in San Diego each presenting posters on their work resolving different quantitative genetics challenges presented by high throughput phenotyping data.
 
 ![PAG19](/images/News_Images/PAG19.jpg){:width="500" align="middle" }
+
+### 2018
+
+* We were proud to be one of the sponsors of the 3rd annual broomcorn (proso) millet conference held this summer in 
 
 * Nate Korth receives the NFHC award for his initial doctoral dissertation research studying the interaction of crop plant genetics and the human gut microbiome.
 
