@@ -12,7 +12,7 @@ Our headquarters is located in the Iowa State Research Park:
 Building 7
 Ames, IA 50010
 
-![Address](/images/address.jpg){:width="500" align="middle" }
+![Address](/images/Address.jpg){:width="500" align="middle" }
 
 ### Contact Us
 
