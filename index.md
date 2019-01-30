@@ -1,23 +1,17 @@
 ---
 layout: page
-title: Schnable Lab
-subtitle: Hypothesis Driven Research in Plant Genomics and Phenomics
+title: Dryland Genetics
+subtitle: Sustainable and Resilient Food in a World with Less Water
 
 googlefonts: ["Monoton", "Lobster"]
 bigimg:
   - "/images/Front_Page_Images/header.png" : ""
 ---
 
-![The Whole Schnable Lab](/images/Whole_Lab.jpg){:width="900" align="middle" }
+![A Field of Proso Millet](/images/Millet_Field.jpg){:width="900" align="middle" }
 
-While individuals specialize, each member of the lab gets at least some experience writing computer code, employing molecular biology techniques, working with living plants in the greenhouse, and conducting fieldwork. As a result of the diverse set of collaborators we work with -- applied plant breeders, biochemists, engineers, computer scientists, food scientists, and statisticians -- each member of the lab also gains experience communicating both within and across scientific disciplines, as well as to diverse non-scientific audiences. This cross training produces scientists who are equipped to both understand and address the complex and far-reaching problems our world will face in coming decades.
+Dryland Genetics applies cutting edge quantitative genetics and high throughput phenotyping to improve the yield and agronomic properities of naturally water use efficient crops which can grow in parts of the world where crops such as corn or rice would die. Our team brings together agronomists, plant breeders, statisticians, and computer scientists to address this grand challenge, with the goal of both helping farmers and ensuring a resilient and sustainable food suppy in coming decades in the face of competiting demands for water from agricultural and urban consumers. 
 
-**Come work with us!**
+In the US, significant quantities of otherwise arable land are in fact being withdrawn from production due to a shortage of freshwater for irrigation. Freshwater is becoming increasingly limited as underground aquifers are depleted and expanding cities lay claim to water supplies previously reserved for agriculture. In parallel with reductions in irrigated acreage in the US, the increased variability in annual rainfall driven by global climate change has increased the risk of crop failure for non-irrigated farmland.
 
-The Schnable Lab is always recruiting promising undergraduates who either wish to gain experience in computational or molecular biology techniques working as paid assistants on existing research projects, or who wish to develop and carry out independent research projects within our areas of investigation through the University of Nebraska's UCARE program..
-<br><br>
-Openings for postdocs or graduate students (without their own source of support) fluctuate based on avaliablity of grant funds.
-<br><br>
-Read more about [ongoing projects in the lab](/research/).
-<br><br>
-The Schnable Group is based at the University of Nebraska-Lincoln and is lead by James Schnable. Looking for the ISU research group with the same last name? [Click here](https://schnablelab.plantgenomics.iastate.edu/).
+*“These new realities are forcing a profound reassessment of how the 1,450-mile Colorado, the Southwest’s only major river, can continue to slake the thirst of one of the nation’s fastest-growing regions. Agriculture, from California’s Imperial Valley to Wyoming’s cattle herds, soaks up about three-quarters of its water, and produces 15 percent of the nation’s food. But 40 million people also depend on the river and its tributaries, and their numbers are rising rapidly. … A brace of global-warming studies concludes that rising temperatures will reduce the Colorado’s average flow after 2050 by five to 35 percent, even if rainfall remains the same — and most of those studies predict that rains will diminish."*  -[Michael Wines, New York Times, 1/5/2014](https://www.nytimes.com/2014/01/06/us/colorado-river-drought-forces-a-painful-reckoning-for-states.html)
