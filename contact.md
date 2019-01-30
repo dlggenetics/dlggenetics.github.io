@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Contact
-permalink: /Contact/
+permalink: /contact/
 ---
 
- We are proudly located in Iowa’s [Cultivation Corridor](http://www.cultivationcorridor.org/).
-
-Our headquarters is located in the Iowa State Research Park:
+ We are proud to be part of Iowa’s [Cultivation Corridor](http://www.cultivationcorridor.org/). Our headquarters is based in the Iowa State Research Park.
 
 2500 N. Loop Drive, Suite 7411
 Building 7
