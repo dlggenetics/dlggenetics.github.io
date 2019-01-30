@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+ We are proudly located in Iowa’s [Cultivation Corridor](http://www.cultivationcorridor.org/).
 
-### More Information
+Our headquarters is located in the Iowa State Research Park:
 
-A place to include any other types of information that you'd like to include about yourself.
+2500 N. Loop Drive, Suite 7411
+Building 7
+Ames, IA 50010
 
-### Contact me
+### Contact Us
 
-[email@domain.com](mailto:email@domain.com)
+[press@drylandgenetics.com](mailto:press@drylandgenetics.com)
